@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "C9ocZbp+vdDZ4FIgHCzw0DU+oxmgeW74CpHvfVglRrlHUl5XpBIFrR5XwYb2IAjAywY91fNz1JAHieKeyb/fxg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PEDJA\\source\\repos\\OnlineShopDeliveryProject\\OnlineShopProject\\OnlineShopProject\\Shop\\OnlineShop.Application\\OnlineShop.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PEDJA\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\PEDJA\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\PEDJA\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

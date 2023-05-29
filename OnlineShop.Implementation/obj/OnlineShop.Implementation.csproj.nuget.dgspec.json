@@ -1,0 +1,289 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\PEDJA\\source\\repos\\OnlineShopDeliveryProject\\OnlineShopProject\\OnlineShopProject\\Shop\\OnlineShop.Implementation\\OnlineShop.Implementation.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\PEDJA\\source\\repos\\OnlineShopDeliveryProject\\OnlineShopProject\\OnlineShopProject\\Shop\\OnlineShop.Application\\OnlineShop.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\PEDJA\\source\\repos\\OnlineShopDeliveryProject\\OnlineShopProject\\OnlineShopProject\\Shop\\OnlineShop.Application\\OnlineShop.Application.csproj",
+        "projectName": "OnlineShop.Application",
+        "projectPath": "C:\\Users\\PEDJA\\source\\repos\\OnlineShopDeliveryProject\\OnlineShopProject\\OnlineShopProject\\Shop\\OnlineShop.Application\\OnlineShop.Application.csproj",
+        "packagesPath": "C:\\Users\\PEDJA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PEDJA\\source\\repos\\OnlineShopDeliveryProject\\OnlineShopProject\\OnlineShopProject\\Shop\\OnlineShop.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PEDJA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\PEDJA\\source\\repos\\OnlineShopDeliveryProject\\OnlineShopProject\\OnlineShopProject\\Shop\\OnlineShop.Domain\\OnlineShop.Domain.csproj": {
+                "projectPath": "C:\\Users\\PEDJA\\source\\repos\\OnlineShopDeliveryProject\\OnlineShopProject\\OnlineShopProject\\Shop\\OnlineShop.Domain\\OnlineShop.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\PEDJA\\source\\repos\\OnlineShopDeliveryProject\\OnlineShopProject\\OnlineShopProject\\Shop\\OnlineShop.DataAccess\\OnlineShop.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\PEDJA\\source\\repos\\OnlineShopDeliveryProject\\OnlineShopProject\\OnlineShopProject\\Shop\\OnlineShop.DataAccess\\OnlineShop.DataAccess.csproj",
+        "projectName": "OnlineShop.DataAccess",
+        "projectPath": "C:\\Users\\PEDJA\\source\\repos\\OnlineShopDeliveryProject\\OnlineShopProject\\OnlineShopProject\\Shop\\OnlineShop.DataAccess\\OnlineShop.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\PEDJA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PEDJA\\source\\repos\\OnlineShopDeliveryProject\\OnlineShopProject\\OnlineShopProject\\Shop\\OnlineShop.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PEDJA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\PEDJA\\source\\repos\\OnlineShopDeliveryProject\\OnlineShopProject\\OnlineShopProject\\Shop\\OnlineShop.Domain\\OnlineShop.Domain.csproj": {
+                "projectPath": "C:\\Users\\PEDJA\\source\\repos\\OnlineShopDeliveryProject\\OnlineShopProject\\OnlineShopProject\\Shop\\OnlineShop.Domain\\OnlineShop.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\PEDJA\\source\\repos\\OnlineShopDeliveryProject\\OnlineShopProject\\OnlineShopProject\\Shop\\OnlineShop.Domain\\OnlineShop.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\PEDJA\\source\\repos\\OnlineShopDeliveryProject\\OnlineShopProject\\OnlineShopProject\\Shop\\OnlineShop.Domain\\OnlineShop.Domain.csproj",
+        "projectName": "OnlineShop.Domain",
+        "projectPath": "C:\\Users\\PEDJA\\source\\repos\\OnlineShopDeliveryProject\\OnlineShopProject\\OnlineShopProject\\Shop\\OnlineShop.Domain\\OnlineShop.Domain.csproj",
+        "packagesPath": "C:\\Users\\PEDJA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PEDJA\\source\\repos\\OnlineShopDeliveryProject\\OnlineShopProject\\OnlineShopProject\\Shop\\OnlineShop.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PEDJA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\PEDJA\\source\\repos\\OnlineShopDeliveryProject\\OnlineShopProject\\OnlineShopProject\\Shop\\OnlineShop.Implementation\\OnlineShop.Implementation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\PEDJA\\source\\repos\\OnlineShopDeliveryProject\\OnlineShopProject\\OnlineShopProject\\Shop\\OnlineShop.Implementation\\OnlineShop.Implementation.csproj",
+        "projectName": "OnlineShop.Implementation",
+        "projectPath": "C:\\Users\\PEDJA\\source\\repos\\OnlineShopDeliveryProject\\OnlineShopProject\\OnlineShopProject\\Shop\\OnlineShop.Implementation\\OnlineShop.Implementation.csproj",
+        "packagesPath": "C:\\Users\\PEDJA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PEDJA\\source\\repos\\OnlineShopDeliveryProject\\OnlineShopProject\\OnlineShopProject\\Shop\\OnlineShop.Implementation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PEDJA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\PEDJA\\source\\repos\\OnlineShopDeliveryProject\\OnlineShopProject\\OnlineShopProject\\Shop\\OnlineShop.Application\\OnlineShop.Application.csproj": {
+                "projectPath": "C:\\Users\\PEDJA\\source\\repos\\OnlineShopDeliveryProject\\OnlineShopProject\\OnlineShopProject\\Shop\\OnlineShop.Application\\OnlineShop.Application.csproj"
+              },
+              "C:\\Users\\PEDJA\\source\\repos\\OnlineShopDeliveryProject\\OnlineShopProject\\OnlineShopProject\\Shop\\OnlineShop.DataAccess\\OnlineShop.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\PEDJA\\source\\repos\\OnlineShopDeliveryProject\\OnlineShopProject\\OnlineShopProject\\Shop\\OnlineShop.DataAccess\\OnlineShop.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.5.2, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

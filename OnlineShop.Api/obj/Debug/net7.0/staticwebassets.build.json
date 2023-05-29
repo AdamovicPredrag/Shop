@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "jeG9xFUlrjGQPvoPDkoheJfuvLtWM/8vxizpW7SEwOA=",
+  "Source": "OnlineShop.Api",
+  "BasePath": "_content/OnlineShop.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "OnlineShop.Api\\wwwroot",
+      "Source": "OnlineShop.Api",
+      "ContentRoot": "C:\\Users\\PEDJA\\source\\repos\\OnlineShopDeliveryProject\\OnlineShopProject\\OnlineShopProject\\Shop\\OnlineShop.Api\\wwwroot\\",
+      "BasePath": "_content/OnlineShop.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\PEDJA\\source\\repos\\OnlineShopDeliveryProject\\OnlineShopProject\\OnlineShopProject\\Shop\\OnlineShop.Api\\wwwroot\\Images\\6d48a30d-6818-438f-a083-335a4aed210e.jpg",
+      "SourceId": "OnlineShop.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\PEDJA\\source\\repos\\OnlineShopDeliveryProject\\OnlineShopProject\\OnlineShopProject\\Shop\\OnlineShop.Api\\wwwroot\\",
+      "BasePath": "_content/OnlineShop.Api",
+      "RelativePath": "Images/6d48a30d-6818-438f-a083-335a4aed210e.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\6d48a30d-6818-438f-a083-335a4aed210e.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\PEDJA\\source\\repos\\OnlineShopDeliveryProject\\OnlineShopProject\\OnlineShopProject\\Shop\\OnlineShop.Api\\wwwroot\\Images\\9309bc2b-cddd-4c0f-ac3b-ea7e061cc8d4.jpg",
+      "SourceId": "OnlineShop.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\PEDJA\\source\\repos\\OnlineShopDeliveryProject\\OnlineShopProject\\OnlineShopProject\\Shop\\OnlineShop.Api\\wwwroot\\",
+      "BasePath": "_content/OnlineShop.Api",
+      "RelativePath": "Images/9309bc2b-cddd-4c0f-ac3b-ea7e061cc8d4.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\9309bc2b-cddd-4c0f-ac3b-ea7e061cc8d4.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\PEDJA\\source\\repos\\OnlineShopDeliveryProject\\OnlineShopProject\\OnlineShopProject\\Shop\\OnlineShop.Api\\wwwroot\\Images\\c41e0a3c-2001-45fa-8d91-b9f47a8d1e28.jpg",
+      "SourceId": "OnlineShop.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\PEDJA\\source\\repos\\OnlineShopDeliveryProject\\OnlineShopProject\\OnlineShopProject\\Shop\\OnlineShop.Api\\wwwroot\\",
+      "BasePath": "_content/OnlineShop.Api",
+      "RelativePath": "Images/c41e0a3c-2001-45fa-8d91-b9f47a8d1e28.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\c41e0a3c-2001-45fa-8d91-b9f47a8d1e28.jpg"
+    }
+  ]
+}

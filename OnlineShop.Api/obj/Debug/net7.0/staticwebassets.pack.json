@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\PEDJA\\source\\repos\\OnlineShopDeliveryProject\\OnlineShopProject\\OnlineShopProject\\Shop\\OnlineShop.Api\\wwwroot\\Images\\6d48a30d-6818-438f-a083-335a4aed210e.jpg",
+      "PackagePath": "staticwebassets\\Images\\6d48a30d-6818-438f-a083-335a4aed210e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PEDJA\\source\\repos\\OnlineShopDeliveryProject\\OnlineShopProject\\OnlineShopProject\\Shop\\OnlineShop.Api\\wwwroot\\Images\\9309bc2b-cddd-4c0f-ac3b-ea7e061cc8d4.jpg",
+      "PackagePath": "staticwebassets\\Images\\9309bc2b-cddd-4c0f-ac3b-ea7e061cc8d4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PEDJA\\source\\repos\\OnlineShopDeliveryProject\\OnlineShopProject\\OnlineShopProject\\Shop\\OnlineShop.Api\\wwwroot\\Images\\c41e0a3c-2001-45fa-8d91-b9f47a8d1e28.jpg",
+      "PackagePath": "staticwebassets\\Images\\c41e0a3c-2001-45fa-8d91-b9f47a8d1e28.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.OnlineShop.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.OnlineShop.Api.props",
+      "PackagePath": "build\\OnlineShop.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.OnlineShop.Api.props",
+      "PackagePath": "buildMultiTargeting\\OnlineShop.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.OnlineShop.Api.props",
+      "PackagePath": "buildTransitive\\OnlineShop.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
