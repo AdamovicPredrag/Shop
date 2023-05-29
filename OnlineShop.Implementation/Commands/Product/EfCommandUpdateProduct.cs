@@ -24,7 +24,7 @@ namespace OnlineShop.Implementation.Commands.Product
             _context = context;
             _validator = validator;
         }
-        public int Id => 3;
+        public int Id => 6;
         public string Name => "EfCommandUpdateProduct";
         public void Execute(UpdateProductRequest request)
         {

@@ -32,13 +32,6 @@ namespace OnlineShop.Api.Controllers
             return Ok(_useCaseHandler.ExecuteQuery(query, stateSearch));
         }
 
-        // GET api/<StateController>/5
-        [HttpGet("{id}")]
-        public string Get(int id)
-        {
-            return "value";
-        }
-
         // POST api/<StateController>
         [HttpPost]
         public IActionResult Post([FromBody]AddStateRequest addStateRequest, [FromServices]IAddStateCommand command)

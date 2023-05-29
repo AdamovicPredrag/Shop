@@ -25,12 +25,6 @@ namespace OnlineShop.Api.Controllers
             _manager = manager;
         }
 
-        [HttpGet]
-        //[Route("api/[controller]/logout")]
-        public IActionResult Get()
-        {  
-            return NoContent();
-        }
 
         // POST api/<UsersController>
         [HttpPost]

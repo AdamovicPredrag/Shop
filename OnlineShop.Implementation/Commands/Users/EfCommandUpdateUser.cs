@@ -22,7 +22,7 @@ namespace OnlineShop.Implementation.Commands.Users
             _context = context;
             _validator = validator;
         }
-        public int Id => 3;
+        public int Id => 6;
         public string Name => "EfCommandUpdateUser";
 
         public void Execute(UpdateUserRequest request)

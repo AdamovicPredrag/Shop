@@ -33,13 +33,6 @@ namespace OnlineShop.Api.Controllers
             return Ok(_useCaseHandler.ExecuteQuery(query, workingHoursSearch));
         }
 
-        // GET api/<WorkingHoursController>/5
-        [HttpGet("{id}")]
-        public string Get(int id)
-        {
-            return "value";
-        }
-
         // POST api/<WorkingHoursController>
         [HttpPost]
         public IActionResult Post([FromBody] AddWorkingHoursRequest addWorkingHoursRequest, [FromServices] IAddWorkingHoursCommand command)

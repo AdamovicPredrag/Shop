@@ -30,12 +30,6 @@ namespace OnlineShop.Api.Controllers
             return Ok(_useCaseHandler.ExecuteQuery(query, orderSearch));
         }
 
-        // GET api/<OrderController>/5
-        [HttpGet("{id}")]
-        public string Get(int id)
-        {
-            return "value";
-        }
 
         // POST api/<OrderController>
         [HttpPost]

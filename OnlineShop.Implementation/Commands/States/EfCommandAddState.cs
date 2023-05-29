@@ -26,7 +26,7 @@ namespace OnlineShop.Implementation.Commands.States
             _context = context;
             _validator = validator;
         }
-        public int Id => 3;
+        public int Id => 6;
 
         public string Name => "EfAddStateCommand";
 

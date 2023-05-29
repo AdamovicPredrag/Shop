@@ -33,12 +33,6 @@ namespace OnlineShop.Api.Controllers
             return Ok(_useCaseHandler.ExecuteQuery(query, categorySearch));
         }
 
-        // GET api/<CategoryController>/5
-        [HttpGet("{id}")]
-        public string Get(int id)
-        {
-            return "value";
-        }
 
         // POST api/<CategoryController>
         [HttpPost]

@@ -26,7 +26,7 @@ namespace OnlineShop.Implementation.Commands.Categories
             _validator = validator;
         }
 
-        public int Id =>3;
+        public int Id =>6;
 
         public string Name =>"EfCommandUpdateCategory";
 

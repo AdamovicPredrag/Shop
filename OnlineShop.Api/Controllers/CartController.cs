@@ -29,12 +29,6 @@ namespace OnlineShop.Api.Controllers
             return Ok(_useCaseHandler.ExecuteQuery(query, cartSearch));
         }
 
-        // GET api/<CartController>/5
-        [HttpGet("{id}")]
-        public string Get(int id)
-        {
-            return "value";
-        }
 
         // POST api/<CartController>
         [HttpPost]
